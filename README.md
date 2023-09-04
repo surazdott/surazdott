@@ -1,21 +1,7 @@
-<h1 align="center">Hi 👋, I'm Suraj Dott</h1>
-<h3 align="center">I'm a passionate software developer from Nepal with experience Python, PHP, JS, HTML5 and CSS3.</h3>
+<h1 align="left">Hi 👋, I'm Suraj Dott</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surazdott&label=Profile%20views&color=0e75b6&style=flat" alt="surazdott" /> </p>
+<p align="left">Full Stack Developer</p>
 
-<p align="left"> <a href="https://twitter.com/surajdatheputhe" target="blank"><img src="https://img.shields.io/twitter/follow/surajdatheputhe?logo=twitter&style=for-the-badge" alt="surajdatheputhe" /></a> </p>
-
-- 🔭 I’m currently working on **Stackma**
-
-- 🌱 I’m currently learning **React JS**
-
-- 👨‍💻 All of my projects are available at [surazdott](surazdott)
-
-- 📝 I regularly write articles on [stackma.com](stackma.com)
-
-- 💬 Ask me about **PHP, Laravel, Python, Django and jQuery**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/surazdott" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -33,6 +19,22 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </p>
+
+<h3 align="left">About me:</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surazdott&label=Profile%20views&color=0e75b6&style=flat" alt="surazdott" /> </p>
+
+<p align="left">I'm a passionate software developer with experience Python, PHP, JS, HTML5, CSS3 and JavaScript. I have development dozen of websites since 2017 and being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.</p>
+
+- 🔭 I’m currently working on **Stackma**
+
+- 🌱 I’m currently learning **React JS**
+
+- 👨‍💻 All of my projects are available at [surazdott](surazdott)
+
+- 📝 I regularly write articles on [stackma.com](stackma.com)
+
+- 💬 Ask me about **PHP, Laravel, Python, Django and jQuery**
 
 <h3 align="left">Languages and Tools:</h3>
 
