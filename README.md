@@ -30,10 +30,6 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [surazdott](surazdott)
-
-- 📝 I regularly write articles on [stackma.com](stackma.com)
-
 - 💬 Ask me about **PHP, Laravel, Python, Django and jQuery**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,6 +56,8 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
 </p>
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surazdott&show_icons=true&locale=en&layout=compact" alt="surazdott" /></p>
 
