@@ -25,9 +25,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surazdott&label=Profile%20views&color=0e75b6&style=flat" alt="surazdott" /> </p>
 
 <p align="left">I'm a passionate software developer with experience Python, PHP, JS, HTML5, CSS3 and JavaScript. I have development dozen of websites since 2017 and being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.</p>
-
-- 🔭 I’m currently working on **Stackma**
-
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **PHP, Laravel, Python, Django and jQuery**
